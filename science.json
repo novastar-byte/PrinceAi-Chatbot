@@ -1,0 +1,124 @@
+{
+  "science": {
+    "gravity": {
+      "definition": "Gravity is a force of attraction between all masses in the universe.",
+      "example": "It keeps planets in orbit around the sun and causes objects to fall to the ground on Earth.",
+      "real_life_application": "It allows us to walk, jump, and keeps water and atmosphere on Earth.",
+      "fun_fact": "Gravity is weaker on the Moon, so astronauts can jump higher."
+    },
+    "photosynthesis": {
+      "definition": "Photosynthesis is the process by which plants convert sunlight into food.",
+      "example": "Plants take in carbon dioxide and water, and produce glucose and oxygen.",
+      "real_life_application": "It provides oxygen for animals and humans and forms the base of the food chain.",
+      "fun_fact": "Without photosynthesis, life on Earth could not exist."
+    },
+    "evaporation": {
+      "definition": "Evaporation is when a liquid turns into gas, usually from the surface.",
+      "example": "Water from lakes or puddles turning into water vapor.",
+      "real_life_application": "It is part of the water cycle, helping distribute freshwater on Earth.",
+      "fun_fact": "Evaporation cools surfaces, which is why sweating cools the body."
+    },
+    "atoms": {
+      "definition": "Atoms are the basic units of matter, consisting of protons, neutrons, and electrons.",
+      "example": "Everything around you, including your body, is made of atoms.",
+      "real_life_application": "Understanding atoms allows us to create chemicals, medicines, and electronics.",
+      "fun_fact": "Atoms are 99.9999999% empty space!"
+    },
+    "cells": {
+      "definition": "Cells are the basic building blocks of all living organisms.",
+      "example": "Humans have trillions of cells, like skin cells and blood cells.",
+      "real_life_application": "Studying cells helps develop treatments for diseases and understand life.",
+      "fun_fact": "The human body has more bacterial cells than human cells!"
+    },
+    "electricity": {
+      "definition": "Electricity is the flow of electric charge through a conductor.",
+      "example": "When you plug in a device, electricity powers it.",
+      "real_life_application": "It powers homes, computers, transportation, and almost everything modern.",
+      "fun_fact": "Lightning is a natural form of electricity."
+    },
+    "magnetism": {
+      "definition": "Magnetism is a force caused by the motion of electric charges.",
+      "example": "Magnets attract iron and steel objects.",
+      "real_life_application": "Used in motors, generators, and data storage devices.",
+      "fun_fact": "Earth itself acts like a giant magnet with a magnetic field."
+    },
+    "force": {
+      "definition": "Force is any interaction that changes the motion of an object.",
+      "example": "Pushing a door or pulling a rope applies force.",
+      "real_life_application": "Understanding force is key in engineering, sports, and physics.",
+      "fun_fact": "Sir Isaac Newton formulated the laws of motion describing forces."
+    },
+    "energy": {
+      "definition": "Energy is the ability to do work or cause change.",
+      "example": "Kicking a ball or boiling water involves energy.",
+      "real_life_application": "Electricity, transportation, heating, and machines all rely on energy.",
+      "fun_fact": "Energy cannot be created or destroyed, only transformed."
+    },
+    "friction": {
+      "definition": "Friction is the resistance to motion when two surfaces touch.",
+      "example": "Brakes on a bicycle create friction to stop it.",
+      "real_life_application": "Friction helps us walk, drive vehicles, and hold objects.",
+      "fun_fact": "Ice has low friction, which is why you slip easily on it."
+    },
+    "sound": {
+      "definition": "Sound is a vibration that travels through a medium like air, water, or solids.",
+      "example": "When you clap, the vibration creates sound waves you hear.",
+      "real_life_application": "Used in music, communication, sonar, and medical imaging (ultrasound).",
+      "fun_fact": "Sound cannot travel in a vacuum."
+    },
+    "light": {
+      "definition": "Light is electromagnetic radiation that can be seen by the human eye.",
+      "example": "Sunlight allows us to see objects during the day.",
+      "real_life_application": "Used in vision, photography, communication (fiber optics), and solar energy.",
+      "fun_fact": "Light travels faster than anything else in the universe."
+    },
+    "matter": {
+      "definition": "Matter is anything that has mass and takes up space.",
+      "example": "Rocks, water, air, and humans are all matter.",
+      "real_life_application": "Understanding matter is fundamental in chemistry and physics.",
+      "fun_fact": "Matter exists in solid, liquid, gas, and plasma states."
+    },
+    "temperature": {
+      "definition": "Temperature measures how hot or cold something is.",
+      "example": "Boiling water has a high temperature, ice has a low temperature.",
+      "real_life_application": "Used in weather, cooking, medicine, and scientific experiments.",
+      "fun_fact": "Absolute zero is the lowest possible temperature (-273.15°C)."
+    },
+    "pressure": {
+      "definition": "Pressure is the force applied over a surface area.",
+      "example": "Air pressure pushes on your body constantly.",
+      "real_life_application": "Important in weather forecasting, hydraulics, and aviation.",
+      "fun_fact": "Mount Everest has lower air pressure than at sea level."
+    },
+    "voltage": {
+      "definition": "Voltage is the electrical potential difference between two points.",
+      "example": "Batteries provide voltage to power devices.",
+      "real_life_application": "Used in electronics, power systems, and circuits.",
+      "fun_fact": "High voltage can be dangerous if not handled properly."
+    },
+    "current": {
+      "definition": "Current is the flow of electric charge.",
+      "example": "Electric current powers your home appliances.",
+      "real_life_application": "Critical in electronics, electrical engineering, and energy distribution.",
+      "fun_fact": "There are two types: AC (alternating current) and DC (direct current)."
+    },
+    "density": {
+      "definition": "Density is the mass of an object per unit volume.",
+      "example": "Oil floats on water because it is less dense.",
+      "real_life_application": "Used in material science, buoyancy calculations, and engineering.",
+      "fun_fact": "Ice is less dense than liquid water, which is why it floats."
+    },
+    "buoyancy": {
+      "definition": "Buoyancy is the upward force exerted by a fluid on an object immersed in it.",
+      "example": "Ships float because the water pushes them up.",
+      "real_life_application": "Important in shipbuilding, submarines, and fluid mechanics.",
+      "fun_fact": "Archimedes discovered the principle of buoyancy while bathing!"
+    },
+    "ecosystem": {
+      "definition": "An ecosystem is a community of living organisms interacting with their environment.",
+      "example": "A forest includes trees, animals, insects, soil, and climate.",
+      "real_life_application": "Studying ecosystems helps in conservation and environmental protection.",
+      "fun_fact": "Every part of an ecosystem is interconnected; removing one species can affect many others."
+    }
+  }
+}

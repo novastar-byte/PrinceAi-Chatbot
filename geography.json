@@ -1,0 +1,124 @@
+{
+  "geography": {
+    "mount_everest": {
+      "definition": "The highest mountain in the world.",
+      "location": "Himalayas, on the border of Nepal and China (Tibet).",
+      "importance": "Attracts climbers worldwide; important for climate and geological studies.",
+      "fun_fact": "Its height is 8,848 meters (29,029 ft) above sea level."
+    },
+    "nile_river": {
+      "definition": "The longest river in the world.",
+      "location": "Flows through northeastern Africa, mainly Egypt and Sudan.",
+      "importance": "Supports agriculture, water supply, and human settlements.",
+      "fun_fact": "It is over 6,650 km (4,130 miles) long."
+    },
+    "amazon_river": {
+      "definition": "The second longest river, largest by discharge volume.",
+      "location": "South America, mainly Brazil and Peru.",
+      "importance": "Crucial for rainforest ecosystem and biodiversity.",
+      "fun_fact": "It has more water than the next seven largest rivers combined."
+    },
+    "sahara_desert": {
+      "definition": "The largest hot desert in the world.",
+      "location": "Northern Africa.",
+      "importance": "Affects climate, human settlement, and ecosystems.",
+      "fun_fact": "It is roughly the size of the United States."
+    },
+    "great_barrier_reef": {
+      "definition": "The world's largest coral reef system.",
+      "location": "Northeast coast of Australia.",
+      "importance": "Supports marine biodiversity, tourism, and coastal protection.",
+      "fun_fact": "Visible from space!"
+    },
+    "grand_canyon": {
+      "definition": "A massive canyon carved by the Colorado River.",
+      "location": "Arizona, USA.",
+      "importance": "Geological study, tourism, and cultural significance.",
+      "fun_fact": "It is over 446 km (277 miles) long."
+    },
+    "mt_fuji": {
+      "definition": "A famous stratovolcano and highest peak in Japan.",
+      "location": "Honshu Island, Japan.",
+      "importance": "Cultural symbol, hiking destination, geological studies.",
+      "fun_fact": "It last erupted in 1707."
+    },
+    "gobi_desert": {
+      "definition": "A large cold desert.",
+      "location": "Northern China and southern Mongolia.",
+      "importance": "Unique ecosystem, paleontological discoveries.",
+      "fun_fact": "Home to dinosaur fossils."
+    },
+    "sahara_oasis": {
+      "definition": "Fertile areas in a desert with water sources.",
+      "location": "Various locations across the Sahara Desert.",
+      "importance": "Supports human settlements and agriculture in deserts.",
+      "fun_fact": "Some oases are hundreds of years old."
+    },
+    "andes_mountains": {
+      "definition": "The longest continental mountain range.",
+      "location": "Western South America, across seven countries.",
+      "importance": "Geography, climate influence, minerals, and biodiversity.",
+      "fun_fact": "Home to the highest volcanoes in the world."
+    },
+    "volga_river": {
+      "definition": "The longest river in Europe.",
+      "location": "Russia.",
+      "importance": "Supports agriculture, transport, and energy (hydropower).",
+      "fun_fact": "It drains into the Caspian Sea."
+    },
+    "dead_sea": {
+      "definition": "A salt lake with extremely high salinity.",
+      "location": "Border of Jordan, Israel, and Palestine.",
+      "importance": "Tourism, mineral resources, health benefits.",
+      "fun_fact": "You can float easily because of the high salt content."
+    },
+    "lake_superior": {
+      "definition": "The largest of the Great Lakes of North America.",
+      "location": "Bordering USA and Canada.",
+      "importance": "Freshwater source, shipping, and recreation.",
+      "fun_fact": "It has the largest surface area of any freshwater lake in the world."
+    },
+    "mississippi_river": {
+      "definition": "One of the longest rivers in North America.",
+      "location": "United States, flowing from Minnesota to the Gulf of Mexico.",
+      "importance": "Transportation, agriculture, and ecology.",
+      "fun_fact": "It has thousands of tributaries."
+    },
+    "everglades": {
+      "definition": "A tropical wetland ecosystem.",
+      "location": "Southern Florida, USA.",
+      "importance": "Biodiversity hotspot, water regulation, flood control.",
+      "fun_fact": "Known as the 'River of Grass'."
+    },
+    "siberia": {
+      "definition": "A vast region of Russia covering most of northern Asia.",
+      "location": "Russia, from the Ural Mountains to the Pacific.",
+      "importance": "Natural resources, wildlife, extreme climate studies.",
+      "fun_fact": "Home to permafrost and the Siberian tiger."
+    },
+    "great_lakes": {
+      "definition": "A group of five interconnected freshwater lakes.",
+      "location": "North America, USA and Canada.",
+      "importance": "Freshwater supply, transport, and ecosystems.",
+      "fun_fact": "Contain 21% of the world's surface freshwater."
+    },
+    "rocky_mountains": {
+      "definition": "Major mountain range in North America.",
+      "location": "From Canada to the USA (New Mexico).",
+      "importance": "Tourism, biodiversity, minerals, and climate influence.",
+      "fun_fact": "Home to grizzly bears, moose, and mountain goats."
+    },
+    "alps": {
+      "definition": "A major mountain range in Europe.",
+      "location": "Across eight countries including France, Switzerland, Italy, and Austria.",
+      "importance": "Tourism, skiing, culture, and climate studies.",
+      "fun_fact": "Mont Blanc is the highest peak at 4,808 meters."
+    },
+    "ganges_river": {
+      "definition": "A major river in South Asia.",
+      "location": "India and Bangladesh.",
+      "importance": "Religious significance, agriculture, and water supply.",
+      "fun_fact": "Considered sacred in Hinduism."
+    }
+  }
+}

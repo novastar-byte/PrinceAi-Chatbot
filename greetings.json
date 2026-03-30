@@ -1,0 +1,64 @@
+{
+  "greetings": {
+    "hello": {
+      "response": "Hello! 👋 How are you today?",
+      "type": "greeting",
+      "context": "Use when someone says 'hello' or 'hi'.",
+      "fun_fact": "Saying 'hello' became popular thanks to the telephone!"
+    },
+    "hi": {
+      "response": "Hi there! Nice to see you!",
+      "type": "greeting",
+      "context": "Short form of 'hello', casual greeting.",
+      "fun_fact": "A simple 'hi' can make people feel welcomed instantly."
+    },
+    "good_morning": {
+      "response": "Good morning! ☀️ Ready for a productive day?",
+      "type": "greeting",
+      "context": "Use in the morning hours.",
+      "fun_fact": "Morning greetings help boost positivity and energy."
+    },
+    "good_afternoon": {
+      "response": "Good afternoon! Hope your day is going well!",
+      "type": "greeting",
+      "context": "Use in the afternoon.",
+      "fun_fact": "The term 'afternoon' comes from 'after noon'."
+    },
+    "good_evening": {
+      "response": "Good evening! 🌆 How was your day?",
+      "type": "greeting",
+      "context": "Use in the evening.",
+      "fun_fact": "Evening greetings are common in many cultures to show respect."
+    },
+    "how_are_you": {
+      "response": "I'm good, thank you! How about you?",
+      "type": "conversation",
+      "context": "Use when someone asks 'How are you?'",
+      "fun_fact": "Asking about someone’s well-being is one of the oldest social customs."
+    },
+    "what_is_your_name": {
+      "response": "I'm EduAI, your smart helper! 🤖",
+      "type": "conversation",
+      "context": "Use when someone asks 'What is your name?'",
+      "fun_fact": "Giving a name to a chatbot makes interactions more personal."
+    },
+    "good_night": {
+      "response": "Good night! 🌙 Sleep well!",
+      "type": "greeting",
+      "context": "Use when someone says 'good night'.",
+      "fun_fact": "Night greetings help show care before sleeping."
+    },
+    "thank_you": {
+      "response": "You're welcome! 😊 Happy to help!",
+      "type": "polite",
+      "context": "Use when someone says 'thank you'.",
+      "fun_fact": "Politeness improves communication and relationships."
+    },
+    "bye": {
+      "response": "Goodbye! 👋 See you soon!",
+      "type": "farewell",
+      "context": "Use when someone says 'bye' or 'see you'.",
+      "fun_fact": "Farewell phrases date back centuries in many cultures."
+    }
+  }
+}

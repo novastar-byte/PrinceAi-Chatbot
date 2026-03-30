@@ -1,0 +1,144 @@
+{
+  "animals": {
+    "lion": {
+      "habitat": "Grasslands and savannas of Africa and some parts of Asia",
+      "diet": "Carnivore – mainly antelopes, zebras, and buffalo",
+      "behavior": "Lives in prides, social hunting, territorial",
+      "conservation": "Vulnerable",
+      "fun_fact": "Called the 'king of the jungle' because of its dominance and strength"
+    },
+    "elephant": {
+      "habitat": "Forests, grasslands, and savannas in Africa and Asia",
+      "diet": "Herbivore – eats grass, leaves, fruits, bark",
+      "behavior": "Lives in herds led by a matriarch, intelligent and social",
+      "conservation": "Endangered",
+      "fun_fact": "Elephants have strong memories and communicate using infrasound"
+    },
+    "dolphin": {
+      "habitat": "Oceans worldwide, usually in shallow coastal waters",
+      "diet": "Carnivore – fish and squid",
+      "behavior": "Highly intelligent, social, uses echolocation",
+      "conservation": "Least Concern",
+      "fun_fact": "Can recognize themselves in mirrors, showing high cognitive ability"
+    },
+    "penguin": {
+      "habitat": "Southern Hemisphere, mostly Antarctica",
+      "diet": "Carnivore – fish, krill, squid",
+      "behavior": "Flightless birds, social, swim expertly",
+      "conservation": "Varies by species",
+      "fun_fact": "Penguins huddle together to keep warm in extreme cold"
+    },
+    "tiger": {
+      "habitat": "Forests and grasslands of Asia",
+      "diet": "Carnivore – deer, wild boar, buffalo",
+      "behavior": "Solitary, nocturnal hunters, strong swimmers",
+      "conservation": "Endangered",
+      "fun_fact": "Each tiger has a unique stripe pattern"
+    },
+    "kangaroo": {
+      "habitat": "Grasslands and forests of Australia",
+      "diet": "Herbivore – grass, leaves, shrubs",
+      "behavior": "Live in mobs, hop using strong legs",
+      "conservation": "Least Concern",
+      "fun_fact": "Females carry babies in pouches"
+    },
+    "panda": {
+      "habitat": "Mountain forests of China",
+      "diet": "Primarily bamboo",
+      "behavior": "Solitary, mostly inactive during the day",
+      "conservation": "Vulnerable",
+      "fun_fact": "Pandas have a special thumb for holding bamboo"
+    },
+    "giraffe": {
+      "habitat": "Savannas of Africa",
+      "diet": "Herbivore – leaves, especially acacia",
+      "behavior": "Social, live in loosely organized herds",
+      "conservation": "Vulnerable",
+      "fun_fact": "Tallest land animal, neck can be up to 6 feet long"
+    },
+    "polar bear": {
+      "habitat": "Arctic regions",
+      "diet": "Carnivore – seals",
+      "behavior": "Solitary, strong swimmers",
+      "conservation": "Vulnerable",
+      "fun_fact": "Their skin is black under thick white fur to absorb heat"
+    },
+    "wolf": {
+      "habitat": "Forests, tundra, mountains of North America, Europe, Asia",
+      "diet": "Carnivore – deer, elk, small mammals",
+      "behavior": "Live and hunt in packs",
+      "conservation": "Least Concern",
+      "fun_fact": "Wolves communicate using howls, body language, and scent marking"
+    },
+    "eagle": {
+      "habitat": "Mountains, forests, and open areas worldwide",
+      "diet": "Carnivore – fish, small mammals, birds",
+      "behavior": "Strong fliers, build large nests called eyries",
+      "conservation": "Varies by species",
+      "fun_fact": "Eagles have extremely sharp eyesight"
+    },
+    "crocodile": {
+      "habitat": "Rivers, lakes, wetlands of Africa, Asia, Americas, Australia",
+      "diet": "Carnivore – fish, mammals, birds",
+      "behavior": "Ambush hunters, spend time in water and sunbathe",
+      "conservation": "Varies by species",
+      "fun_fact": "Crocodiles can go months without eating after a big meal"
+    },
+    "zebra": {
+      "habitat": "Savannas and grasslands of Africa",
+      "diet": "Herbivore – grass",
+      "behavior": "Live in herds, migratory",
+      "conservation": "Near Threatened",
+      "fun_fact": "Each zebra's stripe pattern is unique"
+    },
+    "gorilla": {
+      "habitat": "Tropical forests of Central Africa",
+      "diet": "Herbivore – leaves, stems, fruits",
+      "behavior": "Live in troops led by a silverback male",
+      "conservation": "Endangered",
+      "fun_fact": "Gorillas use tools and have complex social behavior"
+    },
+    "whale": {
+      "habitat": "Oceans worldwide",
+      "diet": "Carnivore – krill, small fish (varies by species)",
+      "behavior": "Highly social, migratory, communicate with songs",
+      "conservation": "Varies by species",
+      "fun_fact": "Blue whales are the largest animals ever known to live on Earth"
+    },
+    "chimpanzee": {
+      "habitat": "Tropical forests of Central Africa",
+      "diet": "Omnivore – fruits, insects, small mammals",
+      "behavior": "Live in communities, very intelligent, use tools",
+      "conservation": "Endangered",
+      "fun_fact": "Closely related to humans, sharing about 98% of DNA"
+    },
+    "cheetah": {
+      "habitat": "Grasslands of Africa",
+      "diet": "Carnivore – antelopes, small mammals",
+      "behavior": "Fastest land animal, solitary or small groups",
+      "conservation": "Vulnerable",
+      "fun_fact": "Can reach speeds of 70 mph in short bursts"
+    },
+    "owl": {
+      "habitat": "Forests, deserts, mountains worldwide",
+      "diet": "Carnivore – rodents, insects, birds",
+      "behavior": "Nocturnal hunters, silent flight",
+      "conservation": "Varies by species",
+      "fun_fact": "Owls can rotate their heads up to 270 degrees"
+    },
+    "rhinoceros": {
+      "habitat": "Grasslands and forests of Africa and Asia",
+      "diet": "Herbivore – grass, leaves, shoots",
+      "behavior": "Mostly solitary, territorial",
+      "conservation": "Critically Endangered to Vulnerable depending on species",
+      "fun_fact": "Their horn is made of keratin, the same material as human hair"
+    },
+    "hippopotamus": {
+      "habitat": "Rivers, lakes, and swamps of Africa",
+      "diet": "Herbivore – grass, aquatic plants",
+      "behavior": "Semi-aquatic, aggressive, social in pods",
+      "conservation": "Vulnerable",
+      "fun_fact": "Hippos can hold their breath underwater for about 5 minutes"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "university": "University of Toronto",
+    "country": "Canada",
+    "courses": ["Computer Science", "Engineering", "Mathematics"],
+    "type": "Public"
+  },
+  {
+    "university": "University of Mauritius",
+    "country": "Mauritius",
+    "courses": ["Computer Science", "Information Technology", "Business"],
+    "type": "Public"
+  },
+  {
+    "university": "University of Nairobi",
+    "country": "Kenya",
+    "courses": ["Computer Science", "Data Science", "Engineering"],
+    "type": "Public"
+  }
+]
